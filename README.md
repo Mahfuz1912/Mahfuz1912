@@ -34,7 +34,7 @@ A web application for architectural designs, including project galleries and cli
 
 ## Skills
 
-- **Front-end Development:** HTML, CSS.
+- **Front-end Development:** HTML, CSS, Bootstrap.
 - **Back-end Development:** Currently learning MERN stack (MongoDB, Express.js, React, Node.js)
 - **Version Control:** Git, GitHub
 
