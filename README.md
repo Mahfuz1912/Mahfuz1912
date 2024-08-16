@@ -46,7 +46,7 @@ Feel free to reach out to me for any collaborations, opportunities, or just to c
 
 - **Email:** [smahfuz945@gmail.com](mailto:smahfuz945@gmail.com)
 - **LinkedIn:** [Sabit Al Mahfuz](https://www.linkedin.com/in/s-ᴀ-mᴀʜꜰᴜz-03367429b)
-
+- **More Information:** [My Identy Card](https://mahfuz1912.github.io/Profile-card/)
 ---
 
 Thank you for visiting my portfolio!
