@@ -1,7 +1,7 @@
 <!-- Banner Image -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://i.ibb.co/LDMvJfnm/Blue-Brown-White-Modern-Web-Developer-Linked-In-Banner-1.png" alt="Banner" width="100%" height="100%" />
-</div>
+</div> -->
 <!-- Name & Designation -->
 <h1 align="center">Hi 👋, I'm Sabit Al Mahfuz</h1>
 <h3 align="center">Computer Science Student | MERN Stack Learner</h3>
@@ -80,7 +80,7 @@ I’m always eager to learn new skills and collaborate on open-source projects. 
 ## 🌐 Connect with Me
 
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://www.linkedin.com/in/s-ᴀ-mᴀʜꜰᴜz-03367429b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -96,7 +96,7 @@ I’m always eager to learn new skills and collaborate on open-source projects. 
   <a href="https://github.com/mahfuz5101912?tab=followers" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20me%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub"/>
   </a>
-</p>
+</p> -->
 
 
 
@@ -109,12 +109,12 @@ I’m always eager to learn new skills and collaborate on open-source projects. 
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mahfuz5101912&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahfuz1912&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
  
  
  
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz5101912&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuz1912&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 
 </div>
 
@@ -124,7 +124,7 @@ I’m always eager to learn new skills and collaborate on open-source projects. 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahfuz5101912&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahfuz1912&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 
@@ -133,7 +133,7 @@ I’m always eager to learn new skills and collaborate on open-source projects. 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuz5101912&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahfuz1912&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
