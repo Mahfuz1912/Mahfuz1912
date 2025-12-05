@@ -1,52 +1,66 @@
 # Sabit Al Mahfuz's Portfolio
 
-Welcome to my portfolio! I'm Sabit Al Mahfuz, a Computer Science student at Daffodil International University. I am currently learning MERN stack web development and have built several projects to showcase my skills. 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sabit%20Al%20Mahfuz-blue)](https://www.linkedin.com/in/s-ᴀ-mᴀʜꜰᴜz-03367429b)
+[![Email](https://img.shields.io/badge/Email-smahfuz945%40gmail.com-green)](mailto:smahfuz945@gmail.com)
+
+Welcome to my portfolio! I am Sabit Al Mahfuz, a dedicated Computer Science student at Daffodil International University. Passionate about web development, I am currently honing my skills in the MERN stack and have developed several projects to demonstrate my proficiency in front-end technologies.
+
+## About Me
+
+As a Computer Science student, I focus on creating user-friendly and responsive web applications. My journey in web development began with mastering the fundamentals of HTML and CSS, and I am now expanding into full-stack development with MongoDB, Express.js, React, and Node.js.
 
 ## Projects
 
-### 1. Developer Portfolio
-A personal portfolio website to showcase my skills, projects, and achievements. It features a clean design and easy navigation.
+Here are some of the projects I've built to showcase my skills:
 
-- **Technologies:** HTML, CSS.
-- **Live Demo:** [Developer Portfolio](https://mahfuz1912.github.io/Devoloper-Protfolio/)
-- **Repository:** [Developer Portfolio GitHub](https://github.com/Mahfuz1912/Devoloper-Protfolio)
+### 1. Developer Portfolio
+A personal portfolio website designed to highlight my skills, projects, and achievements. Features a clean, responsive design with intuitive navigation.
+
+- **Technologies:** HTML, CSS
+- **Live Demo:** [Developer Portfolio](https://mahfuz1912.github.io/Developer-Portfolio/)
+- **Repository:** [Developer Portfolio GitHub](https://github.com/Mahfuz1912/Developer-Portfolio)
 
 ### 2. Football Site
-A dynamic website dedicated to football, featuring news, player stats, and match schedules.
+A dynamic website dedicated to football enthusiasts, featuring news updates, player statistics, and match schedules.
 
-- **Technologies:** HTML, CSS.
+- **Technologies:** HTML, CSS
 - **Live Demo:** [Football Site](https://mahfuz1912.github.io/Gamer-Zone/)
 - **Repository:** [Football Site GitHub](https://github.com/Mahfuz1912/Gamer-Zone)
 
 ### 3. Gym Model
-A comprehensive web application for gym management. It includes features for user registration, workout plans, and progress tracking.
+A comprehensive web application for gym management, including user registration, personalized workout plans, and progress tracking features.
 
-- **Technologies:** HTML, CSS.
-- **Live Demo:** [Gym Model](https://mahfuz1912.github.io/Jym-Model/)
-- **Repository:** [Gym Model GitHub](https://github.com/Mahfuz1912/Jym-Model)
+- **Technologies:** HTML, CSS
+- **Live Demo:** [Gym Model](https://mahfuz1912.github.io/Gym-Model/)
+- **Repository:** [Gym Model GitHub](https://github.com/Mahfuz1912/Gym-Model)
 
 ### 4. G3 Architect
-A web application for architectural designs, including project galleries and client testimonials.
+A professional web application for architectural services, showcasing project galleries, client testimonials, and design portfolios.
 
-- **Technologies:** HTML, CSS.
-- **Live Demo:** [G3 Architect](https://mahfuz1912.github.io/g3-Architect-Website/)
-- **Repository:** [G3 Architect GitHub](https://github.com/Mahfuz1912/g3-Architect-Website)
+- **Technologies:** HTML, CSS
+- **Live Demo:** [G3 Architect](https://mahfuz1912.github.io/G3-Architect-Website/)
+- **Repository:** [G3 Architect GitHub](https://github.com/Mahfuz1912/G3-Architect-Website)
 
 ## Skills
 
-- **Front-end Development:** HTML, CSS, Bootstrap.
-- **Back-end Development:** Currently learning MERN stack (MongoDB, Express.js, React, Node.js)
+- **Front-end Development:** HTML, CSS, Bootstrap
+- **Back-end Development:** MERN Stack (MongoDB, Express.js, React, Node.js) – Currently Learning
+- **Programming Languages:** C, C++, Java, JavaScript
 - **Version Control:** Git, GitHub
-- **Programing Language:** C, C++, Java, Javascript.
 
-  
+## Education
+
+- **Bachelor of Science in Computer Science**  
+  Daffodil International University (Ongoing)
+
 ## Contact
 
-Feel free to reach out to me for any collaborations, opportunities, or just to connect!
+I'm always open to collaborations, internships, or opportunities to connect. Feel free to reach out!
 
 - **Email:** [smahfuz945@gmail.com](mailto:smahfuz945@gmail.com)
 - **LinkedIn:** [Sabit Al Mahfuz](https://www.linkedin.com/in/s-ᴀ-mᴀʜꜰᴜz-03367429b)
-- **More Information:** [My Identy Card](https://mahfuz1912.github.io/Profile-card/)
+- **Profile Card:** [My Identity Card](https://mahfuz1912.github.io/Profile-card/)
+
 ---
 
-Thank you for visiting my portfolio!
+Thank you for visiting my GitHub! Let's build something amazing together. 🚀
