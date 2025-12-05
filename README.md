@@ -1,66 +1,157 @@
-# Sabit Al Mahfuz's Portfolio
+<!-- Banner Image -->
+<div align="center">
+  <img src="https://i.ibb.co/LDMvJfnm/Blue-Brown-White-Modern-Web-Developer-Linked-In-Banner-1.png" alt="Banner" width="100%" height="100%" />
+</div>
+<!-- Name & Designation -->
+<h1 align="center">Hi 👋, I'm Sabit Al Mahfuz</h1>
+<h3 align="center">Computer Science Student | MERN Stack Learner</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sabit%20Al%20Mahfuz-blue)](https://www.linkedin.com/in/s-ᴀ-mᴀʜꜰᴜz-03367429b)
-[![Email](https://img.shields.io/badge/Email-smahfuz945%40gmail.com-green)](mailto:smahfuz945@gmail.com)
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahfuz5101912&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-Welcome to my portfolio! I am Sabit Al Mahfuz, a dedicated Computer Science student at Daffodil International University. Passionate about web development, I am currently honing my skills in the MERN stack and have developed several projects to demonstrate my proficiency in front-end technologies.
-
-## About Me
-
-As a Computer Science student, I focus on creating user-friendly and responsive web applications. My journey in web development began with mastering the fundamentals of HTML and CSS, and I am now expanding into full-stack development with MongoDB, Express.js, React, and Node.js.
-
-## Projects
-
-Here are some of the projects I've built to showcase my skills:
-
-### 1. Developer Portfolio
-A personal portfolio website designed to highlight my skills, projects, and achievements. Features a clean, responsive design with intuitive navigation.
-
-- **Technologies:** HTML, CSS
-- **Live Demo:** [Developer Portfolio](https://mahfuz1912.github.io/Developer-Portfolio/)
-- **Repository:** [Developer Portfolio GitHub](https://github.com/Mahfuz1912/Developer-Portfolio)
-
-### 2. Football Site
-A dynamic website dedicated to football enthusiasts, featuring news updates, player statistics, and match schedules.
-
-- **Technologies:** HTML, CSS
-- **Live Demo:** [Football Site](https://mahfuz1912.github.io/Gamer-Zone/)
-- **Repository:** [Football Site GitHub](https://github.com/Mahfuz1912/Gamer-Zone)
-
-### 3. Gym Model
-A comprehensive web application for gym management, including user registration, personalized workout plans, and progress tracking features.
-
-- **Technologies:** HTML, CSS
-- **Live Demo:** [Gym Model](https://mahfuz1912.github.io/Gym-Model/)
-- **Repository:** [Gym Model GitHub](https://github.com/Mahfuz1912/Gym-Model)
-
-### 4. G3 Architect
-A professional web application for architectural services, showcasing project galleries, client testimonials, and design portfolios.
-
-- **Technologies:** HTML, CSS
-- **Live Demo:** [G3 Architect](https://mahfuz1912.github.io/G3-Architect-Website/)
-- **Repository:** [G3 Architect GitHub](https://github.com/Mahfuz1912/G3-Architect-Website)
-
-## Skills
-
-- **Front-end Development:** HTML, CSS, Bootstrap
-- **Back-end Development:** MERN Stack (MongoDB, Express.js, React, Node.js) – Currently Learning
-- **Programming Languages:** C, C++, Java, JavaScript
-- **Version Control:** Git, GitHub
-
-## Education
-
-- **Bachelor of Science in Computer Science**  
-  Daffodil International University (Ongoing)
-
-## Contact
-
-I'm always open to collaborations, internships, or opportunities to connect. Feel free to reach out!
-
-- **Email:** [smahfuz945@gmail.com](mailto:smahfuz945@gmail.com)
-- **LinkedIn:** [Sabit Al Mahfuz](https://www.linkedin.com/in/s-ᴀ-mᴀʜꜰᴜz-03367429b)
-- **Profile Card:** [My Identity Card](https://mahfuz1912.github.io/Profile-card/)
 
 ---
 
-Thank you for visiting my GitHub! Let's build something amazing together. 🚀
+## 🚀 About Me
+
+Hi, I’m Sabit Al Mahfuz — a passionate Computer Science student from Bangladesh.
+I love building web applications using modern technologies like HTML, CSS, and Bootstrap.
+Currently, I’m learning the MERN stack (MongoDB, Express.js, React, Node.js), and working on projects that combine usability with clean design.
+
+I’m always eager to learn new skills and collaborate on open-source projects. Let’s connect!
+
+---
+
+## 🔭 Current Activities
+
+- 🌱 I'm currently learning **MERN Stack** (MongoDB, Express.js, React, Node.js)
+- 💻 I'm working on personal projects like portfolio websites and gym models
+- 🎯 Improving my skills in **HTML**, **CSS**, and **JavaScript**
+- 📚 Studying **Computer Science** at Daffodil International University
+- 🏏 Enjoying sports and exploring new technologies in my free time
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
+
+
+### Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+
+### Database
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+
+### Tools & Version Control
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  
+</p>
+
+
+
+### Deployment & Hosting
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/s-ᴀ-mᴀʜꜰᴜz-03367429b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+ <a href="https://mahfuz1912.github.io/Developer-Portfolio/" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
+  <a href="mailto:smahfuz945@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/mahfuz5101912?tab=followers" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20me%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub"/>
+  </a>
+</p>
+
+
+
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mahfuz5101912&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+ 
+ 
+ 
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz5101912&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
+
+</div>
+
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahfuz5101912&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuz5101912&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+<div align="center">
+  <h3>💭 Quote of the Day</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</div>
+
+---
+
+<div align="center">
+  
+  **"Coding my way to success, one project at a time"** 💻✨
+  
+  *Thanks for visiting my profile! Feel free to reach out for collaborations or just to chat about tech!*
+  
+</div>
+
+
+ 
