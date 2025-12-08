@@ -126,7 +126,8 @@ I'm currently learning the **MERN stack** and building beautiful web projects.
 
 ## 🐍 Contribution Snake
 
-![Snake Animation](https://raw.githubusercontent.com/Mahfuz1912/Mahfuz1912/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Mahfuz1912/Mahfuz1912/output/github-contribution-grid-snake.svg)
+
 
 ---
 <div align="center">
