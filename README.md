@@ -1,7 +1,7 @@
 
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://i.ibb.co/XZgtJS5R/Whats-App-Image-2025-12-09-at-02-55-57-9599f59c.jpg" width="100%"/>
+  <img src="https://i.ibb.co/XZgtJS5R/Whats-App-Image-2025-12-09-at-02-55-57-9599f59c.jpg" height="450" width="100%"/>
 </div>
 
 <h1 align="center">Hi, I'm <span style="color:#F75C7E;">Sabit Al Mahfuz</span> 👋</h1>
