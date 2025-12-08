@@ -89,8 +89,8 @@ I'm currently learning the **MERN stack** and building beautiful web projects.
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/s-ᴀ-mᴀʜꜰᴜz-03367429b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://mahfuz1912.github.io/Developer-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sabitalmahfuz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://s-a-mahfuzportfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:smahfuz945@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Mahfuz1912" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -98,11 +98,16 @@ I'm currently learning the **MERN stack** and building beautiful web projects.
 ---
 
 ## 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mahfuz1912&theme=radical&hide_border=true&show_icons=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuz1912&theme=radical&hide_border=true&layout=compact" height="180" /> </div>
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahfuz1912&theme=radical&hide_border=true&show_icons=true" height="180" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuz1912&theme=radical&hide_border=true&layout=compact" height="180" /> 
+</div>
 
 ---
 ## 🔥 GitHub Streak
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Mahfuz1912&theme=radical&hide_border=true"/> </div>
+<div align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mahfuz1912&theme=radical&hide_border=true"/> 
+</div>
 ---
 
 ## 🏆 GitHub Trophies
@@ -120,7 +125,7 @@ I'm currently learning the **MERN stack** and building beautiful web projects.
 ---
 
 ## 🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/Mahfuz1912/Mahfuz1912/output/github-contribution-grid-snake-dark.svg" /> </div>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Mahfuz1912/Mahfuz1912/output/github-contribution-grid-snake2.svg)
 
 ---
 <div align="center">
