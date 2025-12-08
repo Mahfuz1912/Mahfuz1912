@@ -1,7 +1,7 @@
 <!-- Banner Image -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://i. ibb.co/LDMvJfnm/Blue-Brown-White-Modern-Web-Developer-Linked-In-Banner-1.png" alt="Banner" width="100%" />
-</div>
+</div> -->
 
 <!-- Name & Designation -->
 <h1 align="center">Hi 👋, I'm Sabit Al Mahfuz</h1>
