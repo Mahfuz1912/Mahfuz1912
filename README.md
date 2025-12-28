@@ -98,22 +98,25 @@ I'm currently learning the **MERN stack** and building beautiful web projects.
 ---
 
 ## 📊 GitHub Stats
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahfuz1912&theme=radical&hide_border=true&show_icons=true" height="180" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuz1912&theme=radical&hide_border=true&layout=compact" height="180" /> 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mahfuz1912&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mahfuz1912&layout=compact&theme=radical" height="180"/>
+</p>
 
 ---
+
 ## 🔥 GitHub Streak
-<div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mahfuz1912&theme=radical&hide_border=true"/> 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mahfuz1912&theme=radical"/>
+</p>
+
 ---
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahfuz1912&theme=radical&no-frame=true&column=7" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahfuz1912&theme=radical&no-frame=true"/>
+</p>
+
 
 ---
 
